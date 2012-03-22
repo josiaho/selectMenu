@@ -1,6 +1,7 @@
 selectMenu
 =============
 A tiny script to convert drop-down lists/menus into select box navigation.
+[Example](http://josiaho.github.com/selectMenu)
 
 Benefits
 --------
